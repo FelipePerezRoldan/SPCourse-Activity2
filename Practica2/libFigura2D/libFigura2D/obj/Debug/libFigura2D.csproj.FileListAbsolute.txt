@@ -1,0 +1,6 @@
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\bin\Debug\libFigura2D.dll
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\bin\Debug\libFigura2D.pdb
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\obj\Debug\libFigura2D.csproj.AssemblyReference.cache
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\obj\Debug\libFigura2D.csproj.CoreCompileInputs.cache
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\obj\Debug\libFigura2D.dll
+E:\Programación de software\Guia 1\Practica2\libFigura2D\libFigura2D\obj\Debug\libFigura2D.pdb
